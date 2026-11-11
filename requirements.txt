@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.8
+
+# FFmpeg is also required to encode MP4 output, but it must be installed separately
+# as a system executable and available on PATH; it is not installed with pip.
